@@ -6,7 +6,8 @@ package xxx.yyy.bayiobayi.demo;
  */
 public class App 
 {
-	//stash回来如果有冲突，可以采用 remove from index
+	//stash回来如果有冲突，即便在文件中将冲突直接修复，也没法提交。
+	//可以采用 remove from index
     public static void main( String[] args )
     {
         System.out.println( "Hello World!!!! reset19" );
