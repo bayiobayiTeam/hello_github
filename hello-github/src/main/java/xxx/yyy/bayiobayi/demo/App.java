@@ -10,7 +10,7 @@ public class App
 	//可以采用 remove from index
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!!!! reset19" );
+        System.out.println( "Hello World!!!! reset21" );
         System.out.println("hello github");
         System.out.println("$$$$$$$");
         System.out.println("%%%%%%%%%@@@@@@@@@#####");
