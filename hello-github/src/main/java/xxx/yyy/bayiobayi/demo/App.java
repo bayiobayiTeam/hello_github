@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!!!!" );
         System.out.println("hello github");
         System.out.println("$$$$$$$");
+        System.out.println("%%%%%%%%%");
     }
 }
