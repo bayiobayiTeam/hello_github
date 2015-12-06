@@ -11,7 +11,10 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!!!! test merge" );
+        System.out.println( "Hello World!!!! pusht to upstream @@@" );
+        System.out.println( "Hello World!!!! reset23 @@@" );
         System.out.println("hello github");
+        System.out.println("*************8");
         System.out.println("$$$$$$$");
         System.out.println("%%%%%%%%%@@@@@@@@@#####");
     }
