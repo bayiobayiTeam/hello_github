@@ -10,7 +10,7 @@ public class App
 	//可以采用 remove from index
     public static void main( String[] args )
     {
-        System.out.println( "4merge and comflict~~~ ooo comflict 2 is coming! eee comflict 3 is coming!" );
+        System.out.println( "4merge and comflict~~~ ooo comflict 2 is coming! eee comflict 3 is coming!!" );
         System.out.println( "Hello World!!!! pusht to upstream @@@" );
         System.out.println( "Hello World!!!! reset23 @@@" );
         System.out.println("hello github");
