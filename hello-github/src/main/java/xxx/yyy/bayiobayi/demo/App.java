@@ -17,5 +17,7 @@ public class App
         System.out.println("*************8");
         System.out.println("$$$$$$$");
         System.out.println("%%%%%%%%%@@@@@@@@@#####");
+        
+        System.out.println("add sth");
     }
 }
