@@ -10,12 +10,14 @@ public class App
 	//可以采用 remove from index
     public static void main( String[] args )
     {
-        System.out.println( "4merge" );
+        System.out.println( "4merge and comflict~~~" );
         System.out.println( "Hello World!!!! pusht to upstream @@@" );
         System.out.println( "Hello World!!!! reset23 @@@" );
         System.out.println("hello github");
         System.out.println("*************8");
         System.out.println("$$$$$$$");
         System.out.println("%%%%%%%%%@@@@@@@@@#####");
+        
+        System.out.println("add sth");
     }
 }
