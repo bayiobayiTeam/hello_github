@@ -29,6 +29,10 @@ public class TestPath
 		System.out.println("test patch009 !!!!");
 		
 		System.out.println("test patch010 @@@@");
+		
+		System.out.println("test patch011 +++++");
+		
+		System.out.println("test patch012 #####");
 
 	}
 
