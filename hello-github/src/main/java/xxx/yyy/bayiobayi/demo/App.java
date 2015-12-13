@@ -19,5 +19,6 @@ public class App
         System.out.println("%%%%%%%%%@@@@@@@@@#####");
         
         System.out.println("add sthRRR");
+        System.out.println("patch test");
     }
 }
