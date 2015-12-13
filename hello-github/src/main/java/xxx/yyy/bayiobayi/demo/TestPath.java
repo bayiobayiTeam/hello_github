@@ -20,9 +20,11 @@ public class TestPath
 		
 		System.out.println("test patch003");
 		
-		System.out.println("test patch004");
+		System.out.println("test patch005");
 		
 		System.out.println("test patch007");
+		
+		System.out.println("test patch008");
 
 	}
 
